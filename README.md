@@ -40,6 +40,12 @@ Email Me 👉 ✉️ patarharipadpatar For Collaboration/Project or Anything Els
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<a href="https://platane.github.io/snk">
+  <img height="300px" src="https://user-images.githubusercontent.com/1659820/121798244-7c86d700-cc25-11eb-8c1c-b8e65556ac0d.gif" ></img>
+</a>
+
+[platane.github.io/snk](https://platane.github.io/snk)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Haripadpatar&limit=5&theme=merko&combine_all_yearly_contributions=true)
