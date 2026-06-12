@@ -1,3 +1,16 @@
+💫 Hi 👋, I'm Haripad Patar
+A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India
+
+Email Me 👉 ✉️ patarharipadpatar For Collaboration/Project or Anything Else. 😊😊
+
+🔭 I’m currently working on: Cloud
+🌱 I’m currently learning: System design
+👯 I’m looking to collaborate on: Cloud
+🤔 I’m looking for help with: Cloud
+💬 Ask me about: Collaboration, Tech Support
+📫 How to reach me: patarharipadpatar@gmail.com
+😄 Pronouns: Haripad Patar
+⚡ Fun fact: I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patarharipadpatar@gmail.com) 
